@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://astrodevsite.github.io/theplaybook-demo/'
 languageCode = 'en-us'
 title = 'Bora fazer esse trem funcionar'
 theme = 'PaperMod'
