@@ -1,0 +1,4 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Bora fazer esse trem funcionar'
+theme = 'PaperMod'
